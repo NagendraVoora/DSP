@@ -1,0 +1,6 @@
+file=open("new.txt","w+")
+a=file.read()
+print(a)
+print("nag")
+print(len(a))
+file.close()
